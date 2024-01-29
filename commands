@@ -1,0 +1,4 @@
+
+ npx create-react-app timetasker --template typescript --use-npm 
+
+  C:\dev\TimeTasker\timetasker
