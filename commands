@@ -2,3 +2,7 @@
  npx create-react-app timetasker --template typescript --use-npm 
 
   C:\dev\TimeTasker\timetasker
+
+  docker build -t timetasker
+
+  docker run -p 3000:3000 -it timetasker
